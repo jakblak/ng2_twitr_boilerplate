@@ -2,6 +2,9 @@
   "name": "TwitterAppFrontend",
   "version": "1.0.0",
   "description": "Search and display tweets frontend",
+  "scripts": {
+    "tsc": "tsc"
+  },
   "keywords": [],
   "author": "",
   "license": "MIT",
