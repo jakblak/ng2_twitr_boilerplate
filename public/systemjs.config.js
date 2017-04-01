@@ -5,7 +5,7 @@
     'app': 'app',
     '@angular': 'node_modules/@angular',
     'rxjs': 'node_modules/rxjs',
-    'socket.io-client': 'node_modules/socket.io-client',
+    'socket.io-client': 'node_modules/socket.io-client/dist',
     'moment': 'node_modules/moment',
     'ng2-bootstrap': 'node_modules/ng2-bootstrap',
   };
